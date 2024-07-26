@@ -1,4 +1,4 @@
-[logo](https://github.com/faizan-mati/faizan-mati/blob/main/baner.png)
+![logo](https://github.com/ArhamHamza2005/ArhamHamza2005/blob/main/1.png)
 
 <h1 align="center">Hi ✋, I'm Arham Hamza</h1>
 <h3 align="center">A Passionate Front-End Developer From Pakistan.</h3>
